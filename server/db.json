@@ -1,0 +1,284 @@
+{
+    "clothes": [
+        {
+            "id": 1,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 5500,
+            "category": "vest",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 2,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "vest",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 3,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "vest",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 4,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "vest",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 5,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 7000,
+            "category": "bomber",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 6,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "bomber",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 7,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "bomber",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 8,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "bomber",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 13,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "tShirt",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 14,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "tShirt",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 15,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "tShirt",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 16,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "tShirt",
+            "gender": "male",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 22,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "dress",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 23,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "dress",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 24,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "dress",
+            "gender": "female",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 25,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "dress",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 30,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "shirt",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 31,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "shirt",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 32,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "shirt",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 33,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "shirt",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 38,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "vest",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 39,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "vest",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 40,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "vest",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        },
+        {
+            "id": 41,
+            "title": "Футболка из тонкой трикотажной ткани со вставками «туш-кийиз»",
+            "price": 3200,
+            "category": "vest",
+            "gender": "female",
+            "rank": 8,
+            "description": "Утепленный плащ от BAIRA одновременно красив и функционален. Привлекает внимание и восторг окружающих в то время, как вам тепло и уютно.",
+            "img": "https://scontent.ffru6-1.fna.fbcdn.net/v/t39.30808-6/344166847_224722313520321_2490499636535469163_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=zIPmd_732RcAX8fU6xx&_nc_ht=scontent.ffru6-1.fna&oh=00_AfCsSIXDHcc0zrrrc1ulRResi_ofuJ6-Tr-FC_pzd1YVUQ&oe=64CD6BE7"
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
